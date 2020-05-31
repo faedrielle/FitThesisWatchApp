@@ -1,0 +1,7 @@
+.cproject
+.exportMap
+.project
+.sign/*
+.tproject
+Debug/*
+project_def.prop
